@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/joryaku-dairi-utaawase",
  "yomi": "じょうりゃくにねんだいりうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十五題）",
+  "era": "承暦2年（1078）4月28日",
+  "author": "主催 白河天皇／判者 源顕房",
+  "desc": "白河天皇の内裏で催された晴儀の歌合。子日・霞・鶯・桜・郭公・七夕・紅葉・恋など十五の題で番え、方人の頭は左が師賢、右が通俊、皇后宮大夫源顕房が判をした。のちの歌合で先例として引かれる。"
+ },
  "editions": [
   {
    "pid": "1879502",
